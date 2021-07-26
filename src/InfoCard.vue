@@ -40,7 +40,7 @@ export default {
 }
 
 .flip-container {
-  min-height: 120px;
+  min-height: 320px;
 }
 
 .flipper {
